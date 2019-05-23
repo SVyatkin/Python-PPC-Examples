@@ -1,0 +1,4 @@
+---
+applications:
+- name: ppc-tensorflow-example
+  buildpack: python_buildpack 

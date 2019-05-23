@@ -1,0 +1,26 @@
+flask >= 0.0
+itsdangerous >= 0.0
+Werkzeug >= 0.0
+click >= 0.0
+Jinja2 >= 0.0
+MarkupSafe >= 0.0
+itsdangerous >= 0.0
+wheel >= 0.0
+six >= 0.0 
+absl-py  >= 0.0 
+numpy >= 0.0 
+keras-preprocessing >= 0.0 
+astor >= 0.0 
+mock >= 0.0 
+tensorflow-estimator >= 0.0 
+termcolor >= 0.0 
+h5py >= 0.0 
+keras-applications >= 0.0 
+grpcio >= 0.0 
+setuptools >= 0.0 
+markdown >= 0.0 
+protobuf >= 0.0 
+tensorboard >= 0.0 
+gast >= 0.0 
+tensorflow >= 0.0
+
