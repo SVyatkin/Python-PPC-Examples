@@ -1,0 +1,7 @@
+flask >= 0.0
+itsdangerous >= 0.0
+Werkzeug >= 0.0
+click >= 0.0
+Jinja2 >= 0.0
+MarkupSafe >= 0.0
+
